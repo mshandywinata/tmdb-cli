@@ -2,6 +2,10 @@
 
 A command-line tool to browse movies from The Movie Database (TMDB) API.
 
+## Project
+
+This project is based on the [TMDB CLI roadmap](https://roadmap.sh/projects/tmdb-cli) from roadmap.sh.
+
 ## Installation
 
 ```bash
